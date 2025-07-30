@@ -39,3 +39,12 @@
 .p-1{
     padding: 10px;
 }
+
+.bg-lightgrey{
+    background-color: #38393f
+}
+
+.bg-filler {
+    background-color: rgb(200, 194, 194);
+
+}
